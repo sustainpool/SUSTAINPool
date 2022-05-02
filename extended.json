@@ -1,0 +1,30 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://github.com/sustainpool/SUSTAINPool/raw/main/sustainpool-icon-05.png",
+        "url_png_logo": "https://github.com/sustainpool/SUSTAINPool/raw/main/sustainpool-logo-blue-03.png",
+        "location": "Amsterdam, The Netherlands",
+        "social": {
+            "twitter_handle": "SUSTAINpool",
+            "telegram_handle": "adapools_ops",
+            "facebook_handle": "SUSTAINpool",
+            "youtube_handle": "UCWkUGRROCScJGlcSQ4efLbg",
+            "twitch_handle": "",
+            "discord_handle": "TZ7xZ8YMUG",
+            "github_handle": "sustainpool"
+        },
+        "company": {
+            "name": "SUSTAIN Pool",
+            "addr": "",
+            "city": "Amsterdam",
+            "country": "The Netherlands",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
